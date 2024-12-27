@@ -5,5 +5,5 @@ matplotlib
 dill
 flask
 scikit-learn==1.2.2
-
+gunicorn
 #-e .
